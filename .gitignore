@@ -1,0 +1,9 @@
+# IntelliJ IDE files
+.idea/
+*.iml
+
+# Maven compiled output
+target/
+
+# OS hidden files
+.DS_Store
